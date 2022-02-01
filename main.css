@@ -1,1 +1,12 @@
-
+body{
+  background-image: url(img/kseniya-lapteva-hpB4uxwxBC0-unsplash.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+img{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: auto;
+ margin-top: 80px;
+}
